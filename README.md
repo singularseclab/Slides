@@ -4,10 +4,10 @@ A collection of slides from Singular Security Lab.
 
 ### 2021
 
-* [Chrome Exploitation](2021/chrome-exploitation-zer0con2021.pdf)
+* [Chrome Exploitation](2021/chrome_exploitation-zer0con2021.pdf)
   * Author: Gengming Liu & Shan Huang
   * Conference: Zer0Con 2021
-  * Sharing codes: [browser_exploitation/samsung](https://github.com/singularseclab/Browser_Exploits/tree/master/CVE-2020-1604%5B0%7C1%5D)
+  * Sharing codes: [Browser_Exploits/samsung](https://github.com/singularseclab/Browser_Exploits/tree/master/CVE-2020-1604%5B0%7C1%5D)
 
 ### 2020
 
