@@ -4,6 +4,9 @@ A collection of slides from Singular Security Lab.
 
 ### 2021
 
+* [Qualcomm WiFi: Infinity War](2021/us-21-Qualcomm-WiFi-Infinity-War.pdf)
+  * Author: Haikuo Xie
+  * Conference: BlackHat USA 2021
 * [Chrome Exploitation](2021/chrome_exploitation-zer0con2021.pdf)
   * Author: Gengming Liu & Shan Huang
   * Conference: Zer0Con 2021
