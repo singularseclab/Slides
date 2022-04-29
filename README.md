@@ -2,6 +2,12 @@
 
 A collection of slides from Singular Security Lab.
 
+### 2022
+
+* [New guided Javascript Fuzzing](2022/new_guided_javascript_fuzzing-zer0con2022.pdf)
+  * Author: Zhutian Feng & Haojie He & Gengming Liu
+  * Conference: Zer0Con 2022
+
 ### 2021
 
 * [Qualcomm WiFi: Infinity War](2021/us-21-Qualcomm-WiFi-Infinity-War.pdf)
