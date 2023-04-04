@@ -4,6 +4,9 @@ A collection of slides from Singular Security Lab.
 
 ### 2022
 
+* [JIT Bugs in Instruction Selection](2022/jit_bugs_in_instruction_selection-jqsec2022.pdf)
+  * Author: Zhutian Feng
+  * Conference: JQSEC 2022(京麒 2022)
 * [New guided Javascript Fuzzing](2022/new_guided_javascript_fuzzing-zer0con2022.pdf)
   * Author: Zhutian Feng & Haojie He & Gengming Liu
   * Conference: Zer0Con 2022
