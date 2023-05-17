@@ -2,6 +2,12 @@
 
 A collection of slides from Singular Security Lab.
 
+### 2023
+
+* [Find and exploit race condition bugs in modern JS engines](2023/find_and_exploit_race_condition_bugs_in_modern_JS_engines-zer0con2023.pdf)
+  * Author: Zhutian Feng & Gengming Liu
+  * Conference: Zer0Con 2023
+
 ### 2022
 
 * [JIT Bugs in Instruction Selection](2022/jit_bugs_in_instruction_selection-jqsec2022.pdf)
