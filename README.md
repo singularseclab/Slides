@@ -2,7 +2,25 @@
 
 A collection of slides from Singular Security Lab.
 
+### 2024
+
+* [Remote, One-Click, Breaking through Smartphones via a Non Well-Known Remote Attack Surface](2024/BH_US24-Remote-One-Click-Breaking-through-Smartphones.pdf)
+  * Author: Haikuo Xie & Fan Yang & Qinrun Dai(CU Boulder)
+  * Conference: BlackHat USA 2024
+
+* [Overlooked Bugs, Serious Impact](2024/overlooked_bugs_serious_impact-geekcon2024.pdf)
+  * Author: Zhutian Feng & Haojie He
+  * Conference: GeekCon 2024
+
 ### 2023
+
+* [An interesting research journey: Over-the-air attack surface of Wi-Fi ](2023/Mosec2023-An_interesting_research_journey_Over-the-air_attack_surface_of_Wi-Fi.pdf)
+  * Author: Haikuo Xie & Yu Xing
+  * Conference: MOSEC 2023
+
+* [Timekiller: Leveraging Asynchronous Clock to Escape from QEMU/KVM](2023/Timekiller-Leveraging_Asynchronous_Clock_to_Escape_from_QEMU_KVM.pdf)
+  * Author: Yongkang Jia & Xiao Lei & Yiming Tao & Gaoning Pan(ZJU) & Chunming Wu(ZJU)
+  * Conference: HITB 2023
 
 * [Find and exploit race condition bugs in modern JS engines](2023/find_and_exploit_race_condition_bugs_in_modern_JS_engines-zer0con2023.pdf)
   * Author: Zhutian Feng & Gengming Liu
